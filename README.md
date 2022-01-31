@@ -30,3 +30,6 @@ x : a |- x : (forall b. a) [rule #6]
 Each expression of proof has number 1-6 that shows which dependincies we wait for correct proof.
 
 <img src="Pictures/Rules.png" />
+
+
+For using download this repository, use command 'make' for compiling and command 'make run' for starting programm. (Use commands from root of repository)
