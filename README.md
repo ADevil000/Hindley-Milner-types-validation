@@ -24,4 +24,4 @@ x : a |- x : (forall b. a) [rule #6]
 
 Each expression of proof has number 1-6 that shows which dependincies we wait for correct proof.
 
-<img src="*/Pictures/Rules.png" />
+<img src="Pictures/Rules.png" />
